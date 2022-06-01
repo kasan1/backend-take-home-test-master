@@ -1,9 +1,5 @@
 # Xendit Coding Exercise
 
-## Swagger
-### API documentation
-### http://localhost:8010/api-docs
-
 #### Documentation is implemented
 #### Tooling is implemented
 #### Refactoring is done
